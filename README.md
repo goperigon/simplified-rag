@@ -1,7 +1,5 @@
 # Simplified RAG
 
-## Overview
-
 This repository contains a Python Jupyter Notebook that implements a simple **Retrieval-Augmented Generation (RAG)** pipeline using various state-of-the-art AI tools and APIs. This setup demonstrates how you can fetch the data from the web, use APIs to retrieve data, embed documents into a vector database, and create a chat-based language model to answer user queries with relevant information.
 
 ## Structure
